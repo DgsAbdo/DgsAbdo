@@ -1,4 +1,4 @@
-## Hello world! I'm Dgs Abdo.
+## Hello World! I'm Dgs Abdo.
 
 - :computer: I’m currently working as back-end developer at Rhitmo Tech.
 
