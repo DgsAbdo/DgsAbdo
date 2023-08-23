@@ -1,5 +1,5 @@
 ## Hello World! I'm Dgs Abdo.
-- :computer: I’m currently working as back-end developer at Rhitmo Tech.
+- :computer: I’m currently working as back-end developer.
 <div align="center">
   <a href="https://github.com/DgsAbdo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DgsAbdo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
